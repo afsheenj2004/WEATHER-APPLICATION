@@ -14,3 +14,6 @@
 
 ## ENTER THE CITY NAME IN THE INPUT FIELD AND PRESS THE SEARCH BUTTON THE WEATHER AT THAT REGION WILL BE OBTAINED
 
+#OUTPUT
+
+<img width="541" height="642" alt="Image" src="https://github.com/user-attachments/assets/ffabf3e5-ce47-4466-a28f-6f8f80b23485" />
